@@ -1,4 +1,4 @@
-# flutter_book
+# FlutterBook
 
 A new Flutter project.
 
