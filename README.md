@@ -1,6 +1,7 @@
 # FlutterBook
 
-A new Flutter project.
+A new Flutter project.  
+A cross platform app for managing apointments, tasks, contacts and making notes
 
 ## Getting Started
 
